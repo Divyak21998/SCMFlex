@@ -7,7 +7,7 @@ public class Test2 {
 	@Test
 	public void add()
 	{
-		System.out.println("----save----");
+		System.out.println("----saved--");
 		
 	}
 }
